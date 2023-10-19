@@ -10,4 +10,8 @@ Vector search:
 Storage / Database:
 
 - WiscKey: Separating Keys from Values in SSD-conscious Storage ([PDF](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf))
+- A High Throughput B+tree for SIMD Architectures ([PDF](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf))
 
+Computer architecture:
+
+- The Impact of Thread-Per-Core Architecture on Application Tail Latency ([PDF](https://penberg.org/papers/tpc-ancs19.pdf))
