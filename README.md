@@ -18,5 +18,5 @@ Computer Architecture:
 
 Computer Networking:
 
-- The QUIC Transport Protocol: Design and Internet-Scale Deployment ([PDF](https://penberg.org/papers/tpc-ancs19.pdf](https://www.researchgate.net/publication/318914953_The_QUIC_Transport_Protocol_Design_and_Internet-Scale_Deployment)https://www.researchgate.net/publication/318914953_The_QUIC_Transport_Protocol_Design_and_Internet-Scale_Deployment](https://www.researchgate.net/publication/318914953_The_QUIC_Transport_Protocol_Design_and_Internet-Scale_Deployment)https://www.researchgate.net/publication/318914953_The_QUIC_Transport_Protocol_Design_and_Internet-Scale_Deployment))
+- The QUIC Transport Protocol: Design and Internet-Scale Deployment ([PDF](https://www.researchgate.net/publication/318914953_The_QUIC_Transport_Protocol_Design_and_Internet-Scale_Deployment))
 
