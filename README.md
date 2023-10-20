@@ -12,6 +12,11 @@ Storage / Database:
 - WiscKey: Separating Keys from Values in SSD-conscious Storage ([PDF](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf))
 - A High Throughput B+tree for SIMD Architectures ([PDF](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf))
 
-Computer architecture:
+Computer Architecture:
 
 - The Impact of Thread-Per-Core Architecture on Application Tail Latency ([PDF](https://penberg.org/papers/tpc-ancs19.pdf))
+
+Computer Networking:
+
+- The QUIC Transport Protocol: Design and Internet-Scale Deployment ([PDF](https://penberg.org/papers/tpc-ancs19.pdf](https://www.researchgate.net/publication/318914953_The_QUIC_Transport_Protocol_Design_and_Internet-Scale_Deployment)https://www.researchgate.net/publication/318914953_The_QUIC_Transport_Protocol_Design_and_Internet-Scale_Deployment))
+
