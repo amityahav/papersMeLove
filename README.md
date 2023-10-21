@@ -19,4 +19,5 @@ Computer Architecture:
 Computer Networking:
 
 - The QUIC Transport Protocol: Design and Internet-Scale Deployment ([PDF](https://www.researchgate.net/publication/318914953_The_QUIC_Transport_Protocol_Design_and_Internet-Scale_Deployment))
+- netmap: a novel framework for fast packet I/O ([PDF](https://www.usenix.org/system/files/conference/atc12/atc12-final186.pdf))
 
