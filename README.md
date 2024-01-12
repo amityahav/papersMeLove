@@ -16,6 +16,7 @@ Storage / Database:
 Computer Architecture:
 
 - The Impact of Thread-Per-Core Architecture on Application Tail Latency ([PDF](https://penberg.org/papers/tpc-ancs19.pdf))
+- kvm: the Linux Virtual Machine Monitor ([PDF](https://www.kernel.org/doc/ols/2007/ols2007v1-pages-225-230.pdf))
 
 Computer Networking:
 
