@@ -25,3 +25,6 @@ Computer Networking:
 - netmap: a novel framework for fast packet I/O ([PDF](https://www.usenix.org/system/files/conference/atc12/atc12-final186.pdf))
 - Towards SSH3: how HTTP/3 improves secure shells: ([PDF](https://arxiv.org/pdf/2312.08396.pdf))
 
+Security:
+
+- Spectre Attacks: Exploiting Speculative Execution ([PDF](https://spectreattack.com/spectre.pdf))
