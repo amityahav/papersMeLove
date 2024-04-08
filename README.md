@@ -16,8 +16,11 @@ Storage / Database:
 Computer Architecture / Operating systems:
 
 - The Impact of Thread-Per-Core Architecture on Application Tail Latency ([PDF](https://penberg.org/papers/tpc-ancs19.pdf))
-- kvm: the Linux Virtual Machine Monitor ([PDF](https://www.kernel.org/doc/ols/2007/ols2007v1-pages-225-230.pdf))
 - The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel ([PDF](https://dl.acm.org/doi/pdf/10.1145/3281411.3281443))
+
+Virtualization:
+- Xen and the Art of Virtualization ([PDF](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf))
+- kvm: the Linux Virtual Machine Monitor ([PDF](https://www.kernel.org/doc/ols/2007/ols2007v1-pages-225-230.pdf))
 
 Computer Networking:
 
