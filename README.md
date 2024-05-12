@@ -13,6 +13,7 @@ Storage / Database:
 - A High Throughput B+tree for SIMD Architectures ([PDF](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf))
 - BetrFS: A Right-Optimized Write-Optimized File System ([PDF](https://www.usenix.org/system/files/conference/fast15/fast15-paper-jannen_william.pdf))
 - The Google File System: ([PDF](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf))
+- Umbra: A Disk-Based System with In-Memory Performance ([PDF](https://db.in.tum.de/~freitag/papers/p29-neumann-cidr20.pdf))
 
 Computer Architecture / Operating systems:
 
