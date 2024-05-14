@@ -14,6 +14,8 @@ Storage / Database:
 - BetrFS: A Right-Optimized Write-Optimized File System ([PDF](https://www.usenix.org/system/files/conference/fast15/fast15-paper-jannen_william.pdf))
 - The Google File System: ([PDF](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf))
 - Umbra: A Disk-Based System with In-Memory Performance ([PDF](https://db.in.tum.de/~freitag/papers/p29-neumann-cidr20.pdf))
+- Amazon MemoryDB: A Fast and Durable Memory-First Cloud
+Database ([PDF](https://assets.amazon.science/e0/1b/ba6c28034babbc1b18f54aa8102e/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database.pdf))
 
 Computer Architecture / Operating systems:
 
